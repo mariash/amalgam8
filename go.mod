@@ -6,8 +6,8 @@ require (
 	github.com/Sirupsen/logrus v0.8.7
 	github.com/ant0ine/go-json-rest v3.3.1+incompatible
 	github.com/codegangsta/cli v1.8.1-0.20150711215404-bca61c476e3c
-	github.com/dgrijalva/jwt-go v2.3.0+incompatible
 	github.com/garyburd/redigo v1.0.1-0.20160810234951-ffa8d46ada78
+	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/nicksnyder/go-i18n v1.4.0
 	github.com/onsi/ginkgo v1.2.0
 	github.com/onsi/gomega v0.0.0-20151210141105-0fe204460da2

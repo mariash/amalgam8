@@ -14,11 +14,13 @@ github.com/codegangsta/cli
 github.com/davecgh/go-spew/spew
 # github.com/dgrijalva/jwt-go v2.3.0+incompatible
 ## explicit
-github.com/dgrijalva/jwt-go
 # github.com/garyburd/redigo v1.0.1-0.20160810234951-ffa8d46ada78
 ## explicit
 github.com/garyburd/redigo/internal
 github.com/garyburd/redigo/redis
+# github.com/golang-jwt/jwt v3.2.2+incompatible
+## explicit
+github.com/golang-jwt/jwt
 # github.com/golang/protobuf v1.5.2
 ## explicit; go 1.9
 # github.com/nicksnyder/go-i18n v1.4.0
