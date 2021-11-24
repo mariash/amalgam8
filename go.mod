@@ -5,8 +5,8 @@ go 1.17
 require (
 	github.com/Sirupsen/logrus v0.8.7
 	github.com/ant0ine/go-json-rest v3.3.1+incompatible
-	github.com/dgrijalva/jwt-go v2.3.0+incompatible
 	github.com/garyburd/redigo v1.0.1-0.20161024014702-80f7de34463b
+	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/miekg/dns v0.0.0-20160726032027-db96a2b759cd
 	github.com/nicksnyder/go-i18n v1.4.0
 	github.com/onsi/ginkgo v1.2.0
