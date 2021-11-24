@@ -1,0 +1,95 @@
+# github.com/Sirupsen/logrus v0.8.7
+## explicit
+github.com/Sirupsen/logrus
+github.com/Sirupsen/logrus/formatters/logstash
+# github.com/ant0ine/go-json-rest v3.3.1+incompatible
+## explicit
+github.com/ant0ine/go-json-rest/rest
+github.com/ant0ine/go-json-rest/rest/trie
+# github.com/codegangsta/cli v1.8.1-0.20150711215404-bca61c476e3c
+## explicit
+github.com/codegangsta/cli
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+github.com/davecgh/go-spew/spew
+# github.com/dgrijalva/jwt-go v2.3.0+incompatible
+## explicit
+github.com/dgrijalva/jwt-go
+# github.com/garyburd/redigo v1.0.1-0.20160810234951-ffa8d46ada78
+## explicit
+github.com/garyburd/redigo/internal
+github.com/garyburd/redigo/redis
+# github.com/golang/protobuf v1.5.2
+## explicit; go 1.9
+# github.com/nicksnyder/go-i18n v1.4.0
+## explicit
+github.com/nicksnyder/go-i18n/i18n
+github.com/nicksnyder/go-i18n/i18n/bundle
+github.com/nicksnyder/go-i18n/i18n/language
+github.com/nicksnyder/go-i18n/i18n/translation
+# github.com/onsi/ginkgo v1.2.0
+## explicit
+github.com/onsi/ginkgo
+github.com/onsi/ginkgo/config
+github.com/onsi/ginkgo/internal/codelocation
+github.com/onsi/ginkgo/internal/containernode
+github.com/onsi/ginkgo/internal/failer
+github.com/onsi/ginkgo/internal/leafnodes
+github.com/onsi/ginkgo/internal/remote
+github.com/onsi/ginkgo/internal/spec
+github.com/onsi/ginkgo/internal/specrunner
+github.com/onsi/ginkgo/internal/suite
+github.com/onsi/ginkgo/internal/testingtproxy
+github.com/onsi/ginkgo/internal/writer
+github.com/onsi/ginkgo/reporters
+github.com/onsi/ginkgo/reporters/stenographer
+github.com/onsi/ginkgo/types
+# github.com/onsi/gomega v0.0.0-20151210141105-0fe204460da2
+## explicit
+github.com/onsi/gomega
+github.com/onsi/gomega/format
+github.com/onsi/gomega/internal/assertion
+github.com/onsi/gomega/internal/asyncassertion
+github.com/onsi/gomega/internal/oraclematcher
+github.com/onsi/gomega/internal/testingtsupport
+github.com/onsi/gomega/matchers
+github.com/onsi/gomega/matchers/support/goraph/bipartitegraph
+github.com/onsi/gomega/matchers/support/goraph/edge
+github.com/onsi/gomega/matchers/support/goraph/node
+github.com/onsi/gomega/matchers/support/goraph/util
+github.com/onsi/gomega/types
+# github.com/pborman/uuid v0.0.0-20151215150554-dee7705ef7b3
+## explicit
+github.com/pborman/uuid
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+github.com/pmezard/go-difflib/difflib
+# github.com/rcrowley/go-metrics v0.0.0-20150822184925-1ce93efbc8f9
+## explicit
+github.com/rcrowley/go-metrics
+# github.com/stretchr/objx v0.3.0
+## explicit; go 1.12
+github.com/stretchr/objx
+# github.com/stretchr/testify v1.3.0
+## explicit
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/mock
+github.com/stretchr/testify/require
+github.com/stretchr/testify/suite
+# github.com/urfave/cli v1.18.1-0.20160801031116-168c95418e66
+## explicit
+github.com/urfave/cli
+# github.com/xeipuuv/gojsonpointer v0.0.0-20151027082146-e0fe6f683076
+## explicit
+github.com/xeipuuv/gojsonpointer
+# github.com/xeipuuv/gojsonreference v0.0.0-20150808065054-e02fc20de94c
+## explicit
+github.com/xeipuuv/gojsonreference
+# github.com/xeipuuv/gojsonschema v0.0.0-20160724063752-0a98b2bd9365
+## explicit
+github.com/xeipuuv/gojsonschema
+# gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
+## explicit; go 1.11
+# gopkg.in/yaml.v2 v2.0.0-20160715033755-e4d366fc3c79
+## explicit
+gopkg.in/yaml.v2
